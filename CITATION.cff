@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Predictors of Fear and Distress During Isolated Sleep Paralysis: Analysis Code"
+message: "Please cite the associated manuscript and this repository if you use this analysis code."
+type: software
+authors:
+  - family-names: Ramanathan
+    given-names: Manaswini
+  - family-names: Gamble-George
+    given-names: Joyonna
+repository-code: "https://github.com/jgamblegeorge/sleep-paralysis-fear-distress-analysis"
