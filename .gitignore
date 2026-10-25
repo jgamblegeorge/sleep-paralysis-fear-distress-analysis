@@ -1,0 +1,22 @@
+# Participant-level or derived data
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.dta
+*.tsv
+
+# Generated analysis outputs
+Myna_SP_Final_Analysis_Outputs/
+*.zip
+*.png
+*.pdf
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
